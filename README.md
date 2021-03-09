@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I am Shubhankar Darbari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=shbhnkr.shbhnkr)
+
+### 💻 About Me 
+
+- 🔭 I’m currently working on something cool;
+- 🌱 I’m currently learning Algorithm Design
+- 📫 How to reach me: shbhnkrnl@gmail.com
+- 🎓 Third year student of BSc Computer Science & Engineering at TU Delft
+- 💬 Ask me about anything, I am happy to help;
+
 
 <!--
-**shbhnkr/shbhnkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

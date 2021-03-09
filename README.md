@@ -1,6 +1,6 @@
 ### Hi there, I am Shubhankar Darbari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=shbhnkr.shbhnkr)
+### Glad to see you here! 
 
 ### 💻 About Me 
 
@@ -15,4 +15,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shbhnkr.shbhnkr)
 -->

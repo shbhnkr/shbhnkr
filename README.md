@@ -5,10 +5,10 @@
 ### 💻 About Me 
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning Algorithm Design
-- 📫 How to reach me: shbhnkrnl@gmail.com
-- 🎓 Third year student of BSc Computer Science & Engineering at TU Delft
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently learning Algorithm Design;
+- 📫 How to reach me: shbhnkrnl@gmail.com;
+- 🎓 Third year student of BSc Computer Science & Engineering at TU Delft;
+- 💬 Ask me about anything, I am happy to help
 
 
 <!--
